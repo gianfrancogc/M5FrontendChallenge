@@ -1,0 +1,42 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.select-permission option:first-of-type {
+  visibility: hidden;
+  display: none;
+}
+.content-view-data{
+  background-color: #212529;
+  color: #ffffff;
+  text-align: center;
+}
+.name-permission-view{
+  padding-bottom: 10px;
+}
+.type-permission-view{
+  padding: 10px;
+    background-color: #3c3c3c;
+    text-align: center;
+    font-size: 1.5em;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 4px dotted;
+}
+.border-b{
+  border-bottom: 4px double;
+}
