@@ -1,6 +1,6 @@
 # Proyecto Frontend en React Js para N5 
 
-Proyecto de tipo reto tecnico aplicacion de permisos y tipo de permisos
+Proyecto de tipo reto tecnico aplicación de permisos y tipo de permisos
 
 ## Instrucciones
 
